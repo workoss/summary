@@ -1,4 +1,4 @@
-baseURL = "http://www.workoss.com/"
+baseURL = "https://workoss.github.io/"
 title = "我的博客"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
