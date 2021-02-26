@@ -144,5 +144,5 @@ github.com/onweru/compose v0.0.0-20210222222437-6c4f1c807724 h1:xb77Or8etaZuHUGO
 github.com/onweru/compose v0.0.0-20210222222437-6c4f1c807724/go.mod h1:tf1kQIBUcwJ/3mRFU5eiMrMvsDScVTK2IEFsZE3hZOc=
 github.com/onweru/compose v0.0.0-20210224223901-8dbb193ddbe3 h1:go0CBCDJXSfRd/pCUpmNAsj8KdWh1rUBbLxh6gFMpY8=
 github.com/onweru/compose v0.0.0-20210224223901-8dbb193ddbe3/go.mod h1:tf1kQIBUcwJ/3mRFU5eiMrMvsDScVTK2IEFsZE3hZOc=
-github.com/workoss/hugo-theme v0.0.0-20210226035406-bfc026403ef1 h1:90C3BA4OO18VJJNRKa7AMtdggzBWZxWqatMygh2VdU0=
-github.com/workoss/hugo-theme v0.0.0-20210226035406-bfc026403ef1/go.mod h1:W/lamEUFdvZ2KYzEOMmt4bdzqdEC5/jth9oLtUc1q3M=
+github.com/workoss/hugo-theme v0.0.0-20210226074629-92d5074f12e0 h1:vXn+kDz4/0g9tZCJfyB6QhJahVoeGjc7HRU4O8khR+M=
+github.com/workoss/hugo-theme v0.0.0-20210226074629-92d5074f12e0/go.mod h1:W/lamEUFdvZ2KYzEOMmt4bdzqdEC5/jth9oLtUc1q3M=
