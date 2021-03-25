@@ -48,7 +48,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
 
-  repo = "https://github.com/workoss/blog"
+  repo = "https://github.com/workoss/"
 
   time_format_blog = "Monday, January 02, 2006"
   time_format_default = "January 2, 2006"
@@ -69,7 +69,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "GitHub"
     iconLight = "images/GitHubMarkLight.svg"
     iconDark = "images/GitHubMarkDark.svg"
-    url = "https://github.com/workoss/blog/"
+    url = "https://github.com/workoss/"
 
   # optional
   # attribution. Feel free to delete this
